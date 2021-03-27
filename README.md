@@ -2,7 +2,7 @@
 
 ### brief description:
 This program calculates π using random walk and normal distribution.<br>
-Given a fact that random walk results in a normal distribution, we can exploit this to calculate pi by reversing the equation of normal distribution which looks like the following.
+Given a fact that a 1d random walk results in a normal distribution, we can exploit this to calculate pi by reversing the equation of normal distribution which looks like the following.
 <br>
 f(x) = 1/(σ√(2π))*e^(-1/2*((x-μ)/σ)^2)<br>
 <br>
@@ -22,3 +22,4 @@ we can calculate μ and σ with commonly known means, and then we can calculate 
 <a href="https://github.com/martian17/normal-dist-pi">Github</a><br>
 <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal Distribution (Wikipedia)</a><br>
 <a href="https://en.wikipedia.org/wiki/Standard_deviation">Standard Deviation (Wikipedia)</a><br>
+<a href="https://en.wikipedia.org/wiki/Random_walk">Random Walk (Wikipedia)</a><br>
